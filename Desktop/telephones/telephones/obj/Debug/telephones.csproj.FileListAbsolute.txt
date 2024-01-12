@@ -1,0 +1,6 @@
+C:\Users\tural\source\repos\telephones\telephones\bin\Debug\telephones.exe
+C:\Users\tural\source\repos\telephones\telephones\bin\Debug\telephones.pdb
+C:\Users\tural\source\repos\telephones\telephones\obj\Debug\telephones.csproj.AssemblyReference.cache
+C:\Users\tural\source\repos\telephones\telephones\obj\Debug\telephones.csproj.CoreCompileInputs.cache
+C:\Users\tural\source\repos\telephones\telephones\obj\Debug\telephones.exe
+C:\Users\tural\source\repos\telephones\telephones\obj\Debug\telephones.pdb

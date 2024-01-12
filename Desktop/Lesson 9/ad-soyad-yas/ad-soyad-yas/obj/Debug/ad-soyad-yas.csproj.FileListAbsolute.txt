@@ -1,0 +1,12 @@
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\bin\Debug\ad-soyad-yas.exe
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\bin\Debug\ad-soyad-yas.pdb
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.exe
+C:\Users\tural\Desktop\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.pdb
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\bin\Debug\ad-soyad-yas.exe
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\bin\Debug\ad-soyad-yas.pdb
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.exe
+C:\Users\tural\Desktop\Lesson 9\ad-soyad-yas\ad-soyad-yas\obj\Debug\ad-soyad-yas.pdb

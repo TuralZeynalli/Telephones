@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\2 Array\2 Array\bin\Debug\2 Array.exe
+C:\Users\tural\Desktop\2 Array\2 Array\bin\Debug\2 Array.pdb
+C:\Users\tural\Desktop\2 Array\2 Array\obj\Debug\2 Array.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\2 Array\2 Array\obj\Debug\2 Array.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\2 Array\2 Array\obj\Debug\2 Array.exe
+C:\Users\tural\Desktop\2 Array\2 Array\obj\Debug\2 Array.pdb

@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\bin\Debug\user 2 reqem daxil etsin.exe
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\bin\Debug\user 2 reqem daxil etsin.pdb
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\obj\Debug\user 2 reqem daxil etsin.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\obj\Debug\user 2 reqem daxil etsin.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\obj\Debug\user 2 reqem daxil etsin.exe
+C:\Users\tural\Desktop\user 2 reqem daxil etsin\user 2 reqem daxil etsin\obj\Debug\user 2 reqem daxil etsin.pdb

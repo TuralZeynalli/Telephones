@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\bin\Debug\ədədi orta.exe
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\bin\Debug\ədədi orta.pdb
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\obj\Debug\ədədi orta.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\obj\Debug\ədədi orta.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\obj\Debug\ədədi orta.exe
+C:\Users\tural\Desktop\ədədi orta\ədədi orta\obj\Debug\ədədi orta.pdb
